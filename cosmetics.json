@@ -1,0 +1,135 @@
+{
+    "product": [
+        {
+            "kategori": "beauty",
+            "nama": "Essence Mascara Lash Princess",
+            "made" : "Essence",
+            "deskripsi": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula",
+            "other" : "1 month warranty, Low Stock, Ships in 1 month",
+            "stars" : 4.94,
+            "harga": 9.19,
+            "discount" : 7.17,
+            "detail" : "Width: 23.17 Height: 14.43, Depth: 28.01",
+            "gambar": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+            
+        },
+        {
+            "kategori": "beauty",
+            "nama": "Eyeshadow Palette with Mirror",
+            "made" : "Glamour Beauty",
+            "deskripsi": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+            "other" : "1 year warranty, In Stock, Ships in 2 weeks",
+            "stars" : 3.28,
+            "harga": 19.99,
+            "discount" : 5.5,
+            "detail" : "Width: 12.42 Height: 8.63, Depth: 29.13",
+            "gambar": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+        },
+        {
+            "kategori": "beauty",
+            "nama": "Powder Canister",
+            "made" : "Velvet Touch",
+            "deskripsi": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+            "other" : "2 year warranty, In Stock, Ships in 1-2 business day",
+            "stars" : 3.82,
+            "harga": 14.99,
+            "discount" : 18.14,
+            "detail" : "Width: 24.16 Height: 10.7, Depth: 11.07",
+            "gambar": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+        },
+        {
+            "kategori": "beauty",
+            "nama": "Red Lipstick",
+            "made" : "Chic Cosmetics",
+            "deskripsi": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+            "other" : "Lifetime warranty, In Stock, Ships in 2 weeks",
+            "stars" : 2.51,
+            "harga": 12.99,
+            "discount" : 19.03,
+            "detail" : "Width: 14.37 Height: 13.94, Depth: 14.6",
+            "gambar": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+        },
+        {
+            "kategori": "beauty",
+            "nama": "Red Nail Polish",
+            "made" : "Nail Couture",
+            "deskripsi": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+            "other" : "1 year warranty, In Stock, Ships in 1 week",
+            "stars" : 3.91,
+            "harga": 8.99,
+            "discount" : 2.49,
+            "detail" : "Width: 8.11 Height: 10.89, Depth: 29.06",
+            "gambar": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+        },
+        {
+            "kategori": "fragrance",
+            "nama": "Calvin Klein CK One",
+            "made" : "Calvin Klein",
+            "deskripsi": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+            "other" : "5 year warranty, In Stock, Ships overnight",
+            "stars" : 4.85,
+            "harga": 49.99,
+            "discount" : 30,
+            "detail" : "Width: 11.53, Height: 14.44, Depth: 6.81",
+            "gambar": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+            "gambar2" : "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+            "gambar3" : "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
+        },
+        {
+            "kategori": "fragrance",
+            "nama": "Chanel Coco Noir Eau De",
+            "made" : "Chanel",
+            "deskripsi": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+            "other" : "1 week warranty, In Stock, Ships in 1 month",
+            "stars" : 2.76,
+            "harga": 129.99,
+            "discount" : 18.64,
+            "detail" : "Width: 21.27, Height: 28, Depth: 11.89",
+            "gambar": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
+            "gambar2" : "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+            "gambar3" : "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
+        },
+        {
+            "kategori": "fragrance",
+            "nama": "Dior J'adore",
+            "made" : "Dior",
+            "deskripsi": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+            "other" : "Lifetime warranty, In Stock, Ships in 2 weeks",
+            "stars" : 3.31,
+            "harga": 89.99,
+            "discount" : 17.44,
+            "detail" : "Width: 21.51, Height: 7, Depth: 26.51",
+            "gambar": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
+            "gambar2" : "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
+            "gambar3" : "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
+        },
+        {
+            "kategori": "fragrance",
+            "nama": "Dolce Shine Eau de",
+            "made" : "Dolce & Gabbana",
+            "deskripsi": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+            "other" : "5 year warranty, Low Stock, Ships in 1-2 business days",
+            "stars" : 2.68,
+            "harga": 69.99,
+            "discount" : 12.47,
+            "detail" : "Width: 17, Height: 24.57, Depth: 13.3",
+            "gambar": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+            "gambar2" : "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+            "gambar3" : "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+        },
+        {
+            "kategori": "fragrance",
+            "nama": "Gucci Bloom Eau de",
+            "made" : "Gucci",
+            "deskripsi": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+            "other" : "No warranty, In Stock, Ships in 2 weeks",
+            "stars" : 2.69,
+            "harga": 79.99,
+            "discount" : 8.9,
+            "detail" : "Width: 22.28, Height: 17.81, Depth: 27.18",
+            "gambar": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png",
+            "gambar2" : "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
+            "gambar3" : "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
+        }
+    ]
+}
